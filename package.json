@@ -1,0 +1,31 @@
+{
+    "name": "github-stars-export",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint",
+        "test:unit": "vue-cli-service test:unit"
+    },
+    "dependencies": {
+        "@babel/polyfill": "^7.12.1",
+        "@flowbox/parse-link-header": "^1.0.0",
+        "axios": "^1.7.7",
+        "downloadjs": "^1.4.7",
+        "parse-link-header": "^2.0.0",
+        "vue": "^2.7.16",
+        "vuetify": "^1.5.16"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^4.5.19",
+        "@vue/cli-plugin-unit-jest": "^4.5.19",
+        "@vue/cli-service": "^4.5.19",
+        "@vue/eslint-config-standard": "^4.0.0",
+        "babel-core": "7.0.0-bridge.0",
+        "babel-jest": "^29.7.0",
+        "eslint-plugin-vue": "^6.2.2",
+        "vue-cli-plugin-vuetify": "^2.5.8",
+        "vue-template-compiler": "^2.7.16"
+    }
+}
