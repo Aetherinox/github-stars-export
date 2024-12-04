@@ -15,7 +15,7 @@
         "downloadjs": "^1.4.7",
         "parse-link-header": "^2.0.0",
         "vue": "^2.7.16",
-        "vuetify": "^1.5.16"
+        "vuetify": "^3.7.5"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "^4.5.19",
